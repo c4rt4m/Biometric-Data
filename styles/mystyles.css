@@ -137,3 +137,10 @@ footer {
   margin-bottom: 10px;
 }
 
+body {
+  background-color: #e8edf1; /* match homepage background */
+  font-family: Arial, sans-serif;
+  color: #2c3e50;
+  margin: 0;
+  padding: 0;
+}
