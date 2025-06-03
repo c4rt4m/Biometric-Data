@@ -96,12 +96,14 @@ header {
 }
 
 #technology {
-  background-color: #ffffff;
+  background-color: #e8edf1; /* Matches Home page */
   padding: 30px;
   margin: 20px auto;
   max-width: 900px;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  color: #2c3e50;
+  font-family: Arial, sans-serif;
+}
+
 }
 
 #technology h2, #technology h3 {
