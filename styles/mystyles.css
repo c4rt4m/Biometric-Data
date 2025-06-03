@@ -35,7 +35,7 @@ ul.navbar a {
 }
 
 li a:hover {
-    background-color: #667292;
+    background-color: #ffffff;
 }
 
 address {
@@ -71,7 +71,7 @@ body {
 }
 
 header {
-  background-color: #0055aa;
+  background-color: #f4f6f8;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -145,8 +145,8 @@ body {
   padding: 0;
 }
 header {
-  background-color: #0055aa; /* deep blue */
-  color: white;
+  background-color: #f4f6f8; /* deep blue */
+  color: rgb(50, 46, 46);
   padding: 20px 0;
   text-align: center;
 }
