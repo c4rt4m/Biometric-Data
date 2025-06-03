@@ -94,14 +94,17 @@ header {
   text-decoration: none;
   font-weight: bold;
 }
-
 #technology {
-  background-color: #e8edf1; /* Matches Home page */
-  padding: 30px;
-  margin: 20px auto;
-  max-width: 900px;
+  background-color: #e8edf1;
+  padding: 30px 60px;
+  margin: 0;
+  max-width: none;
+  border-radius: 0;
+  box-shadow: none;
   color: #2c3e50;
   font-family: Arial, sans-serif;
+}
+
 }
 
 }
