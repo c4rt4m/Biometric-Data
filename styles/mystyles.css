@@ -144,3 +144,9 @@ body {
   margin: 0;
   padding: 0;
 }
+header {
+  background-color: #0055aa; /* deep blue */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
