@@ -125,4 +125,15 @@ footer {
   background-color: #eaeaea;
   margin-top: 40px;
 }
+#technology ul {
+  list-style-position: inside;
+  list-style-type: disc;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#technology li {
+  display: list-item;
+  margin-bottom: 10px;
+}
 
