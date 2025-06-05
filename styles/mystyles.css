@@ -60,7 +60,7 @@ img {
 
 }
 
-    .section-box {
+.section-box {
       background-color: #ffffff;
       border: 1px solid #ccc;
       padding: 20px;
@@ -68,15 +68,15 @@ img {
       border-radius: 8px;
       max-width: 1000px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
+}
 
-    .video-container {
+.video-container {
       display: flex;
       justify-content: center;
       margin: 30px 0;
-    }
+}
 
-    blockquote {
+blockquote {
       background-color: #f1f8ff;
       padding: 15px;
       border-left: 5px solid #0077cc;
@@ -84,7 +84,12 @@ img {
       max-width: 900px;
       font-style: italic;
       color: #333;
-    }
+}
 
+.meeting {
+  border: #0077cc;
+  width: 10px;
+  height: auto;
+}
 
 
